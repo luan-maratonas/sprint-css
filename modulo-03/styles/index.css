@@ -1,0 +1,10 @@
+/* Responsável por importar todos os css */
+
+@import url('reset.css');
+@import url('global.css');
+
+/* Components */
+@import url('components/index.css');
+
+/* Containers */
+@import url('containers/homepage.css');

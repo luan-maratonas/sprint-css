@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 28px 56px 0 56px;
+
+    height: 100vh;
+}
+
+#container #buttons button:first-child {
+    margin-right: 12px;
+}
